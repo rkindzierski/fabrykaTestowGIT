@@ -4,4 +4,8 @@ test
 
 kolejne zmiany w tym pliku
 
+<<<<<<< HEAD
 zmiany z mastera
+=======
+nowy branch nazway "new"
+>>>>>>> new
