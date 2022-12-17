@@ -3,3 +3,5 @@ my first file
 test
 
 kolejne zmiany w tym pliku
+
+nowy branch nazway "new"
