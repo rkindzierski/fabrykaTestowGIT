@@ -1,3 +1,5 @@
 my first file
 
 test
+
+kolejne zmiany w tym pliku
